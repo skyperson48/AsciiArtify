@@ -49,4 +49,10 @@ This document provides a comparative analysis of three tools for deploying Kuber
 
 ## Demonstration
 
+#### minikube:
+[![asciicast minikube](https://asciinema.org/a/40YijuC8jh9edsn0nHSOsoV8Y.svg)](https://asciinema.org/a/40YijuC8jh9edsn0nHSOsoV8Y)
+
+
+
+
 
